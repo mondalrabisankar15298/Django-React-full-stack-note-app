@@ -1,0 +1,15 @@
+1. npm create vite@latest frontend -- --template react
+2. cd frontend
+3. npm install axios react-router-dom jwt-decode
+4. delete frontend/src/index.css file
+5. go to 'frontend/src/App.jsx' file comment all code
+6. create 3 folder under 'frontend/src' folder - pages,components, styles
+    and also create some file api.js, constants.js
+7. create a environment variable under frontend directory
+
+
+to start the npm server
+npm run dev
+
+
+
